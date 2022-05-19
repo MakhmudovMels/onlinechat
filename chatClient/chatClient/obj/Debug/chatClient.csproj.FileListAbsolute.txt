@@ -1,0 +1,29 @@
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.exe.config
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.exe
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.pdb
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.csprojResolveAssemblyReference.cache
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.chatForm.resources
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.Cache
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.exe
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.pdb
+C:\Users\melsm\Downloads\chat\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.csproj.AssemblyReference.cache
+C:\Users\melsm\Downloads\chat\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.chatForm.resources
+C:\Users\melsm\Downloads\chat\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+C:\Users\melsm\Downloads\chat\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.cache
+C:\Users\melsm\Downloads\chat\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.csproj.CoreCompileInputs.cache
+C:\Users\melsm\Downloads\chat\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.exe
+C:\Users\melsm\Downloads\chat\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.pdb
+C:\Users\melsm\Downloads\chat\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.exe.config
+C:\Users\melsm\Downloads\chat\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.exe
+C:\Users\melsm\Downloads\chat\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.pdb
+D:\Programming\university 4 semestr\Summer practise\chatClient\chatClient\bin\Debug\chatClient.exe.config
+D:\Programming\university 4 semestr\Summer practise\chatClient\chatClient\bin\Debug\chatClient.exe
+D:\Programming\university 4 semestr\Summer practise\chatClient\chatClient\bin\Debug\chatClient.pdb
+D:\Programming\university 4 semestr\Summer practise\chatClient\chatClient\obj\Debug\chatClient.csproj.AssemblyReference.cache
+D:\Programming\university 4 semestr\Summer practise\chatClient\chatClient\obj\Debug\chatClient.chatForm.resources
+D:\Programming\university 4 semestr\Summer practise\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+D:\Programming\university 4 semestr\Summer practise\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.cache
+D:\Programming\university 4 semestr\Summer practise\chatClient\chatClient\obj\Debug\chatClient.csproj.CoreCompileInputs.cache
+D:\Programming\university 4 semestr\Summer practise\chatClient\chatClient\obj\Debug\chatClient.exe
+D:\Programming\university 4 semestr\Summer practise\chatClient\chatClient\obj\Debug\chatClient.pdb
