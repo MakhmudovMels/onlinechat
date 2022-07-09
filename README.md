@@ -86,7 +86,7 @@ PRIMARY KEY (login)
 );
 ```
 
-![tableusers](img/tableusers.png)
+![tableusers](img/table.png)
 
 Таблица messages хранит в себе информацию о сообщениях, от кого пришло сообщение и сам текст сообщения. Код создания таблицы
 ```
@@ -108,10 +108,14 @@ CREATE TABLE messages (
 
 ## Примеры работы программы
 
+Скриншоты клиентов
+
 ![screen](img/1.png)
 
 ![screen](img/2.png)
 
 ![screen](img/3.png)
+
+Скриншот консоли сервера
 
 ![screen](img/4.png)
